@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hgc on gardening, physics, chocolate, crop circles, fashion, birdwatching, chess, home brewing, minimalism, farming, evolution, cryptocurrency, philosophy, music, pottery, cuisine, and vintage arcade games</title>
+    <link>https://hgc.so/</link>
+    <description>Recent content on hgc on gardening, physics, chocolate, crop circles, fashion, birdwatching, chess, home brewing, minimalism, farming, evolution, cryptocurrency, philosophy, music, pottery, cuisine, and vintage arcade games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2023 01:52:08 +0000</lastBuildDate><atom:link href="https://hgc.so/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Wrote Twitter in Under a Weekend</title>
+      <link>https://hgc.so/posts/how-i-wrote-twitter-in-under-a-weekend/</link>
+      <pubDate>Tue, 12 Sep 2023 01:52:08 +0000</pubDate>
+      
+      <guid>https://hgc.so/posts/how-i-wrote-twitter-in-under-a-weekend/</guid>
+      <description>Twitter
+The Process First, I opened ChatGPT and instructed it with the prompt Write &amp;quot;Twitter&amp;quot;.
+Next, I double clicked ChatGPT&amp;rsquo;s output to select it, and right clicked to copy it to my clipboard.
+Next, I opened Neovim and used the command :&amp;quot;+y to paste from my clipboard.
+Next, I used the command :w to finally write Twitter.
+A Speech of Gratitude Ladies and gentlemen, esteemed guests, and dear friends,
+I stand before you today not as myself, but as hgc, the writer of Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>
